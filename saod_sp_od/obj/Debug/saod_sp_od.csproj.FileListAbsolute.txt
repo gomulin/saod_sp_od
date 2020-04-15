@@ -1,0 +1,14 @@
+C:\Users\ната\Desktop\saod_sp_od\saod_sp_od\bin\Debug\saod_sp_od.exe.config
+C:\Users\ната\Desktop\saod_sp_od\saod_sp_od\bin\Debug\saod_sp_od.exe
+C:\Users\ната\Desktop\saod_sp_od\saod_sp_od\bin\Debug\saod_sp_od.pdb
+C:\Users\ната\Desktop\saod_sp_od\saod_sp_od\obj\Debug\saod_sp_od.csprojAssemblyReference.cache
+C:\Users\ната\Desktop\saod_sp_od\saod_sp_od\obj\Debug\saod_sp_od.csproj.CoreCompileInputs.cache
+C:\Users\ната\Desktop\saod_sp_od\saod_sp_od\obj\Debug\saod_sp_od.exe
+C:\Users\ната\Desktop\saod_sp_od\saod_sp_od\obj\Debug\saod_sp_od.pdb
+C:\Users\ната\Desktop\дом\saod_sp_od\saod_sp_od\bin\Debug\saod_sp_od.exe.config
+C:\Users\ната\Desktop\дом\saod_sp_od\saod_sp_od\bin\Debug\saod_sp_od.exe
+C:\Users\ната\Desktop\дом\saod_sp_od\saod_sp_od\bin\Debug\saod_sp_od.pdb
+C:\Users\ната\Desktop\дом\saod_sp_od\saod_sp_od\obj\Debug\saod_sp_od.csprojAssemblyReference.cache
+C:\Users\ната\Desktop\дом\saod_sp_od\saod_sp_od\obj\Debug\saod_sp_od.csproj.CoreCompileInputs.cache
+C:\Users\ната\Desktop\дом\saod_sp_od\saod_sp_od\obj\Debug\saod_sp_od.exe
+C:\Users\ната\Desktop\дом\saod_sp_od\saod_sp_od\obj\Debug\saod_sp_od.pdb
